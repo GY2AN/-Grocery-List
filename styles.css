@@ -1,0 +1,23 @@
+.unordered-list-cotainer{
+    color:black;
+    background-color: #ffffff;
+    height: 40%;
+    font-size: 22px;
+    width: 50%;
+    border-radius: 12px;
+    padding-top: 20px;
+    text-align: center;
+    /*text-align: center;*/
+    list-style: none;
+    padding-bottom: 20px;
+    
+
+li{
+   
+}
+}
+
+.unordered-list-cotainer{
+    margin-left: auto;
+    margin-right: auto;
+}
